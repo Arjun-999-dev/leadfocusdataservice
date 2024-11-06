@@ -10,7 +10,7 @@ const Header = () => {
             <h2 className='flex-1 ml-20 font-semibold text-xl'>
              ALWAYS OPEN! We work 24/7
             </h2>
-            <h2 className='flex-1 mr-1 font-semibold text-xl hover:transform '> Call Now! +1 307 312 3251
+            <h2 className='flex-1 mr-1 font-semibold text-xl hover:transform '> Call Now! +1 307 312 2345
             </h2>
             </div>
             <div className='bg-zinc-300 pt-14 pb-14 text-base font-semibold text-blue-500'>
