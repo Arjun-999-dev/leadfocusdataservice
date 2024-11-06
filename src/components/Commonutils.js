@@ -1,0 +1,3 @@
+export const NAVITEMS=["HOME","SERVICES","ABOUT","WHY CHOOSE US","TESTIMONILS","CONTACT"];
+
+export const OVERVIE_NAV=["",""];
